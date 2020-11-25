@@ -4,7 +4,7 @@ All contributions improving our Helm charts are welcome. If you'd like to contri
 
 We aim to follow high quality standards, thus your PR must follow some rules:
 
-- Make sure any new parameter is documented
+- Make sure any new parameter is documentedasdfdsaf
 - Make sure the chart version has been bumped in the corresponding chart's `Chart.yaml`.
 - Make sure to describe your change in the corresponding chart's `CHANGELOG.md`.
 - Make sure any new feature is tested by modifying or adding a file in `ci/`
